@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MCAD_Proj</string>
+    <string name="supportive">SUPPORTIVE</string>
+    <string name="careful">CAREFUL</string>
+    <string name="alert">ALERT</string>
+    <string name="kind">KIND</string>
+    <string name="highFever">If you have a fever of 100.4°F (38°C)              or above, you should stay at home and get medical               advice</string>
+    <string name="dry_cough">Dry Cough follwed by shortness of breath or difficulty breathing or fever should be concerning</string>
+    <string name="headache">Headache as a complaint should not be ignored especially any new-onset headache</string>
+    <string name="chills">Chills with repeated shaking and loss of taste or smell and an overall lack of energy</string>
+    <string name="symptoms">These symptoms may appear 2-14 days \nafter exposure</string>
+    <string name="covid_start_title">Welcome to Covid Tracer</string>
+    <string name="covid_start_message">Join the neighborhood watch for the era of COVID-19. Together, We can save lives.</string>
+    <string name="btn_text_getStarted">Get Started</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="content_input">Vui lập nhập thông tin hay gọi đường dây nóng</string>
+    <string name="conten1">Có trường hơp tiếp xúc với trường hợp nghi ngờ nhiễm mắc bệnh hoặc đi từ vùng dịch về</string>
+
+</resources>
