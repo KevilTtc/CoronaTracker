@@ -17,7 +17,7 @@ The Call and App SMS helpline numbers are only for use in VietNam.
 
 Main Screen             |  Symptoms Screen
 :-------------------------:|:-------------------------:
-![Main Screen](Screenshots/MainScreen.jpeg) |   ![Symptoms Screen](Screenshots/SymptomsScreen.jpeg)  
+![Main Screen](Screenshots/home.jpeg) |   ![Symptoms Screen](Screenshots/SymptomsScreen.jpeg)  
 India Statistics Screen             |  Countries List with Cases
 ![India Stat](Screenshots/IndiaStat.jpeg)  |   ![Country List](Screenshots/CountryListStart.jpeg)  
 
