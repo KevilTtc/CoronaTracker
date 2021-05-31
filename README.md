@@ -13,7 +13,7 @@ __API used:__
 For Country Wise : https://corona.lmao.ninja/v2/countries  
 For World Data : https://corona.lmao.ninja/v2/all  
 __Helplines:__  
-The Call and Whatsapp helpline numbers are only for use in Bangalore, Karnataka, India.  
+The Call and App SMS helpline numbers are only for use in VietNam.  
 
 Main Screen             |  Symptoms Screen
 :-------------------------:|:-------------------------:
